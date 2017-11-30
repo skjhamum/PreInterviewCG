@@ -12,5 +12,5 @@ createEntities(Map<Long, String> entities)
 To verify these functionalities, a Junit class called TestExercise and few junit test cases has been created
 
 Future Enhancement:
->>Add few more test cases
->>Use Jenkins job to execute test cases
+Add few more test cases,
+Use Jenkins job to execute test cases.
